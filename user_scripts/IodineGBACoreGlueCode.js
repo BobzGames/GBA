@@ -1,6 +1,7 @@
 "use strict";
 
 var games = {
+    "madden07":"Madden NFL 2007",
     "007":"007 - Everything Or Nothing",
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
