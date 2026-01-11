@@ -1,6 +1,7 @@
 "use strict";
 
 var games = {
+    "taxi":"Crazy Taxi: Catch a Ride",
     "madden07":"Madden NFL 2007",
     "007":"007 - Everything Or Nothing",
     "advancewars":"Advance Wars",
